@@ -21,12 +21,10 @@ Welcome to my collection of **React Practice Projects**! These projects were cre
 
 > 🔧 These are practice-level projects. More advanced projects coming soon!
 
-1. **Simple Counter App** – Learn and apply `useState`
-2. **To-Do List** – Add, delete, and manage tasks
-3. **Responsive Card UI** – Using Tailwind CSS
-4. **Dark Mode Toggle** – React + Tailwind with `useState`
-5. **Icon Showcase** – Using `react-icons` library
-
+1. **Bakery Website Front-End** 
+2. **Pasting App** – Add, delete, and manage tasks
+3. **Employment Management System** 
+4. **Video Calling App Using API** – React + Tailwind with `useState`
 ---
 
 ## 📚 What I Learned
